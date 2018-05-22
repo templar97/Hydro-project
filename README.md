@@ -1,7 +1,7 @@
 # HydroApi
 
 
-A Wrapper for Hydro Blockchain Authentication API written in visual basic(vb)
+A Wrapper for Hydro Blockchain Authentication API written in vb.net
 
  ## Features
 
